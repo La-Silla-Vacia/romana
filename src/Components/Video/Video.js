@@ -7,11 +7,11 @@ import s from './Video.css';
 
 export default class Intro extends Component {
   render(props, state) {
-    const { content, videoLink, title } = props.data;
+    const { content, videoLink, videoStill, title } = props.data;
     const paragraphs = md.render(String(content));
 
     return (
-      <div className={s.container}>
+      <div className={s.container} style={{backgroundImage: `url(${videoStill})`}}>
         <LazyLoad height={200} once>
           <video
             className={s.video}

@@ -7,7 +7,9 @@
       "secondLine": "Marquetalia",
       "introText": "Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus.",
       "date": "April 21, 2017",
-      "author": "Juanita Velez"
+      "author": "Juanita Velez",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/1.mp4",
+      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/1.jpg"
     },
     {
       "type": "text",
@@ -15,8 +17,8 @@
     },
     {
       "type": "video",
-      "videoLink": "http://sdfsa.headless.agency/video/wnmm-bg-vid.mp4",
-      "videoStill": "",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/1.mp4",
+      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/1.jpg",
       "title": "Needs a title",
       "content": "Vestibulum id ligula porta felis euismod semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum."
     },
@@ -26,25 +28,49 @@
     },
     {
       "type": "video",
-      "videoLink": "http://sdfsa.headless.agency/video/wnmm-bg-vid.mp4",
-      "videoStill": "",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/2.mp4",
+      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/2.jpg",
       "title": "Needs a title",
       "content": "Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Donec sed odio dui. Donec sed odio dui. Curabitur blandit tempus porttitor."
     },
     {
       "type": "text",
-      "content": "### Las alianzas\n \nHacer política es una ilusión que se les ve más a los viejos que a los más jóvenes del frente 21, que es el que está aquí.\n \nUn guerrillero raso que entró a los nueve años y ahora tiene 23 dice que a él no le interesa “eso de la política. Yo tengo familia acá en la zona y vamos a juntar la plata que nos van a dar (son ocho millones de pesos por persona para un proyecto productivo) para comprar una finca y sembrar algo”, nos dijo.\n \nA otros, como el de alto rango con el que hablamos, le brillan los ojos y sube las cejas cuando se imagina al partido de las Farc en acción. “Espere y verá, nosotros tenemos toda la voluntad en esta paz porque llevamos muchos años esperando esto”, dice.\n \nAunque en la zona ya eligieron a los diez guerrilleros que van a salir a hacer pedagogía de los acuerdos en Gaitania, el corregimiento que queda pegado a la zona y en Planadas y todas sus veredas, todavía no han salido porque no han entregado las armas.\n \nPero a esos diez ya los están entrenando en el discurso. “Vamos a hablarle a ese campesinado que le ha tocado todo solo. Sin Estado que le cumpla, sin nada. Ahí es que entramos nosotros”, dice el guerrillero reconocido en la región por ser el que cobraba las extorsiones.\n \n“No tenemos que inventarnos nada nuevo. Es nuestro discurso de siempre, solo que ahora queremos que los campesinos estén más involucrados en el proyecto que queremos construir”, agrega.\n \nEse ‘proyecto’ es sentarse con las asociaciones de campesinos que hay en Planadas, que son más de diez y casi todas son de cafeteros, a hacer alianzas con su cooperativa, Ecomun, “para ser más competitivos, arreglar las carreteras y tener cómo sacar nuestros productos”, dice el guerrillero.\n \nEsas alianzas no le chocan para nada a los campesinos. No solo porque por lo menos tres nos dijeron por aparte que si hay alguien que se ha caminado y se conoce al campo bien son las Farc. También porque son conscientes de que la guerrilla los va a necesitar.\n \n“Si ellos no hacen alianzas con las asociaciones y  se lanzan solos como Ecomún, van a quedar marcados como la cooperativa de la guerrilla. Con nosotros pueden aprender lo que sabemos y nosotros también ver qué idea de modernización del campo han pensado todos estos años”, dijo a La Silla Camilo Enciso, gerente de la Asociación de Productores Ecológicos de Planadas, la asociación de caficultores más grande del municipio con más de 200 familias asociadas.\n \nEnciso nos contó que él mismo ha subido a hablar con los guerrilleros a proponerles que se asocien cuando terminen de dejar las armas, pero todavía no se han podido reunir.\n \nOtra idea que tiene él y que ha charlado con otras asociaciones es que algunos desmovilizados se vuelvan guías turísticos de las miles de hectáreas en las que duraron años escondidos disparándole al Ejército, y que ahora se pueden volver un corredor turístico para visitar el nevado del Huila.\n \nPero además de esas alianzas pensadas en clave de su reincorporación, las Farc también están empujando por los laditos para que una pelea limítrofe los beneficie."
+      "content": "### Las alianzas\n \nHacer política es una ilusión que se les ve más a los viejos que a los más jóvenes del frente 21, que es el que está aquí.\n \nUn guerrillero raso que entró a los nueve años y ahora tiene 23 dice que a él no le interesa “eso de la política. Yo tengo familia acá en la zona y vamos a juntar la plata que nos van a dar (son ocho millones de pesos por persona para un proyecto productivo) para comprar una finca y sembrar algo”, nos dijo.\n \nA otros, como el de alto rango con el que hablamos, le brillan los ojos y sube las cejas cuando se imagina al partido de las Farc en acción. “Espere y verá, nosotros tenemos toda la voluntad en esta paz porque llevamos muchos años esperando esto”, dice.\n \nAunque en la zona ya eligieron a los diez guerrilleros que van a salir a hacer pedagogía de los acuerdos en Gaitania, el corregimiento que queda pegado a la zona y en Planadas y todas sus veredas, todavía no han salido porque no han entregado las armas.\n \nPero a esos diez ya los están entrenando en el discurso. “Vamos a hablarle a ese campesinado que le ha tocado todo solo. Sin Estado que le cumpla, sin nada. Ahí es que entramos nosotros”, dice el guerrillero reconocido en la región por ser el que cobraba las extorsiones.\n \n“No tenemos que inventarnos nada nuevo. Es nuestro discurso de siempre, solo que ahora queremos que los campesinos estén más involucrados en el proyecto que queremos construir”, agrega.\n \nEse ‘proyecto’ es sentarse con las asociaciones de campesinos que hay en Planadas, que son más de diez y casi todas son de cafeteros, a hacer alianzas con su cooperativa, Ecomun, “para ser más competitivos, arreglar las carreteras y tener cómo sacar nuestros productos”, dice el guerrillero.\n \nEsas alianzas no le chocan para nada a los campesinos. No solo porque por lo menos tres nos dijeron por aparte que si hay alguien que se ha caminado y se conoce al campo bien son las Farc. También porque son conscientes de que la guerrilla los va a necesitar.\n \n“Si ellos no hacen alianzas con las asociaciones y  se lanzan solos como Ecomún, van a quedar marcados como la cooperativa de la guerrilla. Con nosotros pueden aprender lo que sabemos y nosotros también ver qué idea de modernización del campo han pensado todos estos años”, dijo a La Silla Camilo Enciso, gerente de la Asociación de Productores Ecológicos de Planadas, la asociación de caficultores más grande del municipio con más de 200 familias asociadas.\n \nEnciso nos contó que él mismo ha subido a hablar con los guerrilleros a proponerles que se asocien cuando terminen de dejar las armas, pero todavía no se han podido reunir.\n \nOtra idea que tiene él y que ha charlado con otras asociaciones es que algunos desmovilizados se vuelvan guías turísticos de las miles de hectáreas en las que duraron años escondidos disparándole al Ejército, y que ahora se pueden volver un corredor turístico para visitar el nevado del Huila.\n \nPero además de esas alianzas pensadas en clave de su reincorporación, las Farc también están empujando por los laditos para que una pelea limítrofe los beneficie.\n\n<div style='position:relative;height:0;padding-bottom:56.25%'><iframe src='https://www.youtube.com/embed/tW3J9XnBbqk?ecver=2' width='640' height='360' frameborder='0' style='position:absolute;width:100%;height:100%;left:0' allowfullscreen></iframe></div>"
     },
     {
       "type": "video",
-      "videoLink": "http://sdfsa.headless.agency/video/wnmm-bg-vid.mp4",
-      "videoStill": "",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/3.mp4",
+      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/3.jpg",
       "title": "Needs a title",
       "content": "Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit."
     },
     {
       "type": "text",
       "content": "### Política por los laditos\n \nEl corregimiento que queda más cerquita a la zona veredal de ‘Marquetalia’ es Gaitania.\n \nTiene su propia iglesia, una plaza grande y gente convencida de que con el café que producen, más sus 33 veredas y sus 15 mil habitantes, tienen como pelear para convertirse en un municipio aparte de Planadas.\n \n“Nosotros somos los que ponemos los votos aquí y los que producimos el mejor café de la región, pero a la hora de la inversión nada”, dijo a La Silla la concejal Leonoricel Villamil, que vive en Gaitania y a quién hace casi dos años le mataron a su hijo con 18 disparos y todavía sigue investigando quién fue.\n \nElla y dos personas más que viven en Planadas nos confirmaron que en ese corregimiento armaron un comité para convertir a Gaitania en municipio y que ya hubo una reunión con ‘Marcos Calarcá’, que hizo parte del equipo negociador de las Farc en La Habana, para empujar esa decisión.\n \nLas Farc ganan con eso porque como su zona veredal queda pegada a Gaitania, la inversión directa que le entre a esa población como municipio les ayudaría a ellos. Sobre todo porque allá muchos de los habitantes son las familias de los guerrilleros.\n \n“Aquí la comunidad es muy abierta a las Farc. Muchas familias tienen a sus hijos allá concentrados, son los que por años ejercían la autoridad y tienen como conseguir votos”, dijo a La Silla en su casa cural el padre Carlos Neira, quien además nos contó que tiene buenas relaciones con alias ‘Wilson’ el comandante del Frente 21 y los otros altos rangos y que está por ir a bautizar a los niños que hay en la zona.\n \nEn Gaitania, a diferencia de Planadas, ganó el Sí en el plebiscito. Y ganó porque “llevamos esperando muchos años a que haya un acuerdo. A que ellos empiecen a hacer su anhelada política y nosotros empecemos a vivir sin miedo”, dice la concejal.\n \nEn Planadas, en cambio, ganó el No. \n\nPero no ganó porque estuvieran en desacuerdo con lo que se pactó en La Habana, sino por miedo. “Aquí ganó el No porque ellos eran los que nos prestaban la seguridad, los que cuidaban que esto no se llenara de ladrones. Si se iban a concentrar, pues la gente de aquí pensó que corría el riesgo de quedar en manos del Estado, que es igual que quedar en manos de nada”, dice la concejal.\n \nY el miedo se les cumplió. \n\nPor lo que más se quejan por estos días en el pueblo y que nos dijo desde un vendedor de la plaza de mercado, hasta la concejal y el secretario de gobierno de la alcaldía de Planadas, Jorge Enrique Espitia, es que a pesar de que hoy hay más fuerza pública que antes por los anillos de seguridad de Ejército y Policía que tiene la zona veredal, en el casco urbano se sienten más inseguros que antes.\n \nEspitia nos contó que en un consejo de seguridad que tuvieron la semana pasada, lo primero en la agenda fue que les han llegado denuncias de “llamadas extorsivas a presidentes de juntas de acción comunal. Los llaman, les piden medicamentos y plata a nombre de las Farc y nosotros ya hemos corroborado que no es la guerrilla. Son personas que viven acá, que saben lo de la zona y aprovechan”, dijo a La Silla.\n \nLa ilusión en Planadas ya no es que ese vacío lo llenen las Farc con sus armas. Pero los guerrilleros que están concentrados en esta nueva ‘Marquetalia’ se están preparando para llenarlo. Solo que de otra forma."
+    },
+    {
+      "type": "video",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/4.mp4",
+      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/4.jpg",
+      "title": "Needs a title",
+      "content": "Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit."
+    },
+    {
+      "type": "credits",
+      "people": [
+        {
+          "role": "Videos",
+          "name": "Marguerite Loizillon"
+        },
+        {
+          "role": "Edición",
+          "name": "Daniela Di Martino"
+        },
+        {
+          "role": "Diagramación",
+          "name": "Wietse Neven"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,37 @@
+.container {
+  background-color: #000;
+  padding: 10vh 0;
+  display: block;
+  clear: fix;
+  position: relative;
+}
+
+.inner {
+  width: 90%;
+  max-width: 74em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.title {
+  color: #dcdcdc;
+  font-family: map(fonts, family-serif);
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  clear: fix;
+}
+
+.table {
+  color: #dcdcdc;
+  font-family: map(fonts, family-sans);
+  font-weight: lighter;
+
+  & td {
+    &:first-child {
+      text-align: right;
+      padding-right: 1em;
+    }
+  }
+}

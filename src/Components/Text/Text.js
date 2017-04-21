@@ -1,6 +1,10 @@
 import { h, render, Component } from 'preact';
 import MarkdownIt from 'markdown-it';
-const md = new MarkdownIt();
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+});
 
 import s from './Text.css';
 

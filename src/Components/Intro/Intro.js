@@ -4,11 +4,11 @@ import s from './Intro.css';
 
 export default class Intro extends Component {
   render(props, state) {
-    const { firstLine, secondLine, introText, author, date } = props.data;
+    const { firstLine, secondLine, introText, author, date, videoLink, videoStill } = props.data;
 
     return (
-      <div className={s.container}>
-        <video className={s.video} src="http://especiales.semana.com/agua-bendita/video/belmira/belmiraIntro.mp4"
+      <div className={s.container} style={{backgroundImage: `url(${videoStill})`}}>
+        <video className={s.video} src={videoLink}
                autoPlay="true"
                loop="true" muted="true" />
         <div />

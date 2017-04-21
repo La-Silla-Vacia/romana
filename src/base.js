@@ -6,6 +6,7 @@ const data = require('../data/data.json');
 import Intro from './Components/Intro';
 import Text from './Components/Text';
 import Video from './Components/Video';
+import Credits from './Components/Credits';
 
 export default class Base extends Component {
 
@@ -75,6 +76,11 @@ export default class Base extends Component {
         case "video":
           return (
             <Video data={section} key={index} />
+          );
+          break;
+        case "credits":
+          return (
+            <Credits data={section} key={index} />
           );
           break;
       }

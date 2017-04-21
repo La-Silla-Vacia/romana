@@ -50,11 +50,9 @@
 }
 
 .article-main-body > .col-sm-12,
-.links.list-inline{
-  display: none;
-}
-
-.article-main-body > p {
+.links.list-inline,
+.article-main-body > p,
+#footer {
   display: none;
 }
 
