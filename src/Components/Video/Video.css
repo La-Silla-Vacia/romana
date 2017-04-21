@@ -9,7 +9,7 @@
   overflow: hidden;
   min-height: 75vh;
   padding: 8vh 0;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 .video {
@@ -23,6 +23,10 @@
   transform: translateX(-50%) translateY(-50%);
   background-size: cover;
   transition: 1s opacity;
+
+  @media screen and (max-width: 480px) {
+    display: none;
+  }
 }
 
 .inner {
@@ -31,8 +35,20 @@
   display: block;
   margin: 2em auto;
   clear: fix;
-  position: relative;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
   z-index: 1;
+
+  &::before {
+    content: '';
+    display: block;
+    width: 3em;
+    height: 0.3em;
+    background-color: #fff;
+    margin: 0.5em 0 1em;
+  }
 
   @media screen and (max-width: 768px) {
     column-count: 1;
@@ -46,7 +62,7 @@
     color: #fff;
     max-width: 30em;
     font-size: 1.2em;
-    font-weight: lighter;
+    font-weight: 300;
   }
 }
 

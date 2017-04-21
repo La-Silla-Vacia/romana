@@ -1,6 +1,7 @@
 const path = require('path');
 const webpack = require('webpack'); //to access built-in plugins
 
+
 const config = {
   entry: ['whatwg-fetch', './debug.js'],
   output: {
@@ -8,9 +9,9 @@ const config = {
     filename: './dist/script.js'
   },
   resolve: {
-    alias: {
-      'react': 'preact',
-      'react-dom': 'preact-compat'
+    "alias": {
+      "react": "preact-compat",
+      "react-dom": "preact-compat"
     }
   },
   module: {

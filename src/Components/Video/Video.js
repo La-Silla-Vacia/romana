@@ -17,12 +17,14 @@ export default class Intro extends Component {
             className={s.video}
             src={videoLink}
             autoPlay="true"
-            loop="true" muted="true"
+            loop="true"
+            muted="true"
+            playsinline="true"
           />
         </LazyLoad>
 
         <div className={s.inner}>
-          <h2 className={s.title}>{title}</h2>
+          {/*<h2 className={s.title}>{title}</h2>*/}
           <div className={s.text} dangerouslySetInnerHTML={{ __html: paragraphs }} />
         </div>
       </div>

@@ -10,7 +10,7 @@ export default class Intro extends Component {
       <div className={s.container} style={{backgroundImage: `url(${videoStill})`}}>
         <video className={s.video} src={videoLink}
                autoPlay="true"
-               loop="true" muted="true" />
+               loop="true" muted="true" playsinline="true" />
         <div />
         <div className={s.title}>
           <h1>
