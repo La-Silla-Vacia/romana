@@ -3,7 +3,7 @@ const webpack = require('webpack'); //to access built-in plugins
 const BrowserSyncPlugin = require('browser-sync-webpack-plugin');
 
 const config = {
-  entry: ['whatwg-fetch', './debug.js'],
+  entry: ['./debug.js'],
   output: {
     //path: __dirname,
     filename: './script.js'

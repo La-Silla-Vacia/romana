@@ -15,6 +15,9 @@ lsv("cronica_transmedia", function (interactive) {
     return;
   }
 
+  // Clean the interactive div
+  interactive.el.innerHTML = '';
+
   //MARKUP
   render((
     <Base {...interactive} />

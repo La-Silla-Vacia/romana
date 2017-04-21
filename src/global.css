@@ -87,6 +87,10 @@ html, body {
   padding: 0;
 }
 
+#footer input {
+  padding: 2% 6%;
+}
+
 html body.admin-menu {
   margin-top: 0;
 }
