@@ -4,7 +4,9 @@ const paths = {
 
 module.exports = {
   plugins: [
+    require('postcss-clearfix'),
     require('postcss-autoreset')({}),
+    require('postcss-css-variables'),
     require('postcss-smart-import')({ /* ...options */ }),
     require('precss')({ /* ...options */ }),
     require('autoprefixer')({ /* ...options */ }),

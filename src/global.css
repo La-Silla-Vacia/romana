@@ -3,9 +3,12 @@
 }
 
 #header,
+#footer,
 #footer .row {
   /*max-width: 1280px;*/
   margin: 0 auto;
+  position: relative;
+  z-index: 10;
 }
 
 .article-full {
@@ -31,6 +34,12 @@
 
 .article-main-body {
   padding: 0;
+  margin: 0;
+}
+
+.article-main-body > .col-sm-12,
+.links.list-inline{
+  display: none;
 }
 
 .article-main-body > p {

@@ -1,0 +1,35 @@
+.container {
+  position: relative;
+  background-color: #000;
+  z-index: 1;
+  display: block;
+  color: #fff;
+  clear: fix;
+  overflow: hidden;
+  padding: 5em 0;
+}
+
+.inner {
+  width: 90%;
+  max-width: 60em;
+  display: block;
+  column-count: 2;
+  margin: 0 auto;
+  clear: fix;
+
+  & p {
+    color: #fff;
+
+    &:first-child {
+      &::first-letter {
+        float: left;
+        font-family: Georgia, serif;
+        font-size: 8em;
+        line-height: 90px;
+        padding-top: 10px;
+        padding-right: 8px;
+        padding-left: 3px;
+      }
+    }
+  }
+}
