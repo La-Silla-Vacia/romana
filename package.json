@@ -54,6 +54,7 @@
     "postcss-smart-import": "^0.6.10",
     "preact": "^7.2.1",
     "precss": "^1.4.0",
+    "react-lazyload": "^2.2.7",
     "sass-loader": "6.0.3",
     "style-loader": "0.13.2",
     "underscore-template-loader": "0.7.3",

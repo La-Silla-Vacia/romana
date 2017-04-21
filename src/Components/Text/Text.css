@@ -10,7 +10,7 @@
 
 .inner {
   width: 90%;
-  max-width: 60em;
+  max-width: 74em;
   display: block;
   column-count: 2;
   column-gap: 8vw;
@@ -24,6 +24,7 @@
 
   & p {
     color: #dcdcdc;
+    margin-bottom: 1em;
 
     &:first-child {
       &::first-letter {

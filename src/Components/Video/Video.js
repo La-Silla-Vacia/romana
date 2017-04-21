@@ -1,4 +1,5 @@
 import { h, render, Component } from 'preact';
+import LazyLoad from 'react-lazyload';
 import MarkdownIt from 'markdown-it';
 const md = new MarkdownIt();
 
@@ -11,16 +12,19 @@ export default class Intro extends Component {
 
     return (
       <div className={s.container}>
-        <video className={s.video} src={videoLink}
-               autoPlay="true"
-               loop="true" muted="true" />
+        <LazyLoad height={200} once>
+          <video
+            className={s.video}
+            src={videoLink}
+            autoPlay="true"
+            loop="true" muted="true"
+          />
+        </LazyLoad>
 
         <div className={s.inner}>
           <h2 className={s.title}>{title}</h2>
-          <div className={s.text} dangerouslySetInnerHTML={{__html: paragraphs}} />
+          <div className={s.text} dangerouslySetInnerHTML={{ __html: paragraphs }} />
         </div>
-
-        
       </div>
     )
   }

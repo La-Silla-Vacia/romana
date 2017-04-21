@@ -11,9 +11,9 @@ const config = {
     filename: './script.js'
   },
   resolve: {
-    alias: {
-      'react': 'preact',
-      'react-dom': 'preact-compat'
+    "alias": {
+      "react": "preact-compat",
+      "react-dom": "preact-compat"
     }
   },
   devtool: 'inline-source-map',
