@@ -1,10 +1,15 @@
 .container {
   font-family: map(fonts, family-sans);
   font-size: 16px;
-  background-color: map(colors, primary, base);
+  background-color: #000;
   display: block;
 
   & p {
     font-size: 1em;
+    margin-right: 0;
+
+    @media screen and (max-width: 992px) {
+      font-size: 1em !important;
+    }
   }
 }

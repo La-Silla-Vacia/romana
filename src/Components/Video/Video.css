@@ -7,7 +7,7 @@
   clear: fix;
   overflow: hidden;
   min-height: 75vh;
-  padding: 5em 0;
+  padding: 8vh 0;
 }
 
 .video {
@@ -33,20 +33,38 @@
   position: relative;
   z-index: 1;
 
+  @media screen and (max-width: 768px) {
+    column-count: 1;
+    & p,
+    & .title {
+      margin: 0 auto;
+    }
+  }
+
   & p {
     color: #fff;
     max-width: 30em;
+    font-size: 1.2em;
+    font-weight: lighter;
+  }
+}
 
-    &:first-child {
-      &::first-letter {
-        float: left;
-        font-family: Georgia, serif;
-        font-size: 8em;
-        line-height: 90px;
-        padding-top: 10px;
-        padding-right: 8px;
-        padding-left: 3px;
-      }
-    }
+.title {
+  font-family: map(fonts, family-serif);
+  font-weight: bold;
+  max-width: 480px;
+  font-size: 3.5em;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 1.5em;
+    height: 0.15em;
+    background-color: #fff;
+    margin: 0.5em 0 1em;
+  }
+
+  @media screen and (max-width: 768px) {
+    font-size: calc(1em + 3vh);
   }
 }

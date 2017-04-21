@@ -60,14 +60,23 @@ export default class Base extends Component {
     const {sections} = this.state.data;
 
     return sections.map((section, index) => {
-      if (section.type === "text") {
-        return (
-          <Text data={section} key={index} />
-        )
-      } else if (section.type === "video") {
-        return (
-          <Video data={section} key={index} />
-        )
+      const {type} = section;
+      switch (type){
+        case "intro":
+          return (
+            <Intro data={section} />
+          );
+          break;
+        case "text":
+          return (
+            <Text data={section} key={index} />
+          );
+          break;
+        case "video":
+          return (
+            <Video data={section} key={index} />
+          );
+          break;
       }
     });
   }
@@ -77,7 +86,6 @@ export default class Base extends Component {
     const sections = this.getSections();
     return (
       <div className={s.container}>
-        <Intro data={intro} />
         {sections}
       </div>
     )

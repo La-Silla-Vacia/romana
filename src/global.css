@@ -14,11 +14,23 @@
 .article-full {
   background-color: #000;
   padding: 0;
+  width: 100%;
 }
 
 .info-author,
 .author {
   position: absolute;
+}
+
+.article-main-body .author {
+  display: block;
+  position: absolute;
+  z-index: 40;
+  width: 100%;
+  background: rgba(25,25,25,.4);
+  top: 0;
+  margin-top: 0;
+  padding: 0 1em;
 }
 
 /* Hide the sidebar in historias */
@@ -54,7 +66,13 @@
 
 @media (min-width: 992px) and (max-width: 1200px) {
   .article-content.col-md-8 {
-    width: calc(100% - 20px) !important;
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  #header {
+    height: 47px;
   }
 }
 

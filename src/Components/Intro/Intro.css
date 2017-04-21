@@ -1,9 +1,24 @@
 .container {
   /*The height of the window minus the header*/
-  height: calc(100vh - 144px);
+  min-height: calc(100vh - 144px);
   overflow: hidden;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   position: relative;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+
+  & h1 {
+    font-size: 2.25em;
+  }
+
+  @media screen and (max-height: 530px) {
+    display: block;
+  }
+
+  @media screen and (max-width: 992px) {
+    min-height: calc(100vh - 47px);
+  }
 }
 
 .video {
@@ -21,22 +36,83 @@
 
 .title {
   display: block;
-  position: absolute;
-  bottom: 4em;
+  position: relative;
   width: 90%;
-  max-width: 1280px;
+  max-width: 52em;
   color: #fff;
   margin: 0 auto;
   left: 0;
   right: 0;
+  font-family: map(fonts, family-serif);
+  height: 13em;
 
-  & span {
-    display: block;
+  @media screen and (max-height: 560px) {
+    top: 4em;
+    margin-bottom: 12em;
+  }
+
+  @media (max-width: 910px) {
+    font-size: 1.7vw;
+  }
+
+  @media only screen and (min-height: 700px) {
+    margin-top: 10vh;
   }
 }
 
+.first,
+.second {
+  font-weight: bold;
+  display: block;
+  font-size: 4em;
+  position: absolute;
+}
+
+.first {
+  font-size: 1.88em;
+  top: 0;
+  left: 2.14em;
+}
+
+.second {
+  top: 0.13em;
+}
+
 .text {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  max-width: 60em;
+  margin: 0 auto;
+  width: 90%;
+  text-align: right;
   & p {
-    font-size: 2em;
+    font-size: 1.2em;
+    font-weight: 300;
+    max-width: 40em;
+    float: right;
+    clear: fix;
   }
+}
+
+.paragraph {
+  width: 100%;
+  clear: fix;
+}
+
+.meta {
+  clear: fix;
+  display: block;
+  font-family: map(fonts, family-serif);
+  padding-bottom: 2em;
+}
+
+.date {
+  font-weight: 400;
+}
+
+.author {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
 }
