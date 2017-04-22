@@ -9,6 +9,7 @@
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   background: #000 center;
   background-size: cover;
+  transform: translate3d(0,0,0);
 
   &::after {
     content: '';
