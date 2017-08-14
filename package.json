@@ -4,7 +4,7 @@
   "description": "",
   "repository": {},
   "dependencies": {
-    "lsv-components": "latest",
+    "lsv-components": "^1.0.8",
     "lsv-interactive": "latest",
     "whatwg-fetch": "latest"
   },
