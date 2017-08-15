@@ -17,7 +17,7 @@
 
 .title {
   color: #dcdcdc;
-  font-family: map(fonts, family-serif);
+  font-family: "Roboto Condensed";
   font-size: 1.5em;
   margin-bottom: 1em;
   clear: fix;
@@ -25,7 +25,7 @@
 
 .table {
   color: #dcdcdc;
-  font-family: map(fonts, family-sans);
+  font-family: "Roboto Condensed";
   font-weight: lighter;
 
   & td {

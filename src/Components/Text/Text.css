@@ -5,7 +5,7 @@
   display: block;
   clear: fix;
   overflow: hidden;
-  padding: 10vh 0;
+  padding: 15vh 0;
 }
 
 .inner {
@@ -25,11 +25,14 @@
   & p {
     color: #dcdcdc;
     margin-bottom: 1em;
+    line-height: 1.4em;
+    font-weight: 200;
+    font-size: 1em;
 
     &:first-child {
       &::first-letter {
         float: left;
-        font-family: map(fonts, family-serif);
+        font-family: Roboto;
         font-weight: bold;
         font-size: 8em;
         line-height: 90px;
@@ -42,7 +45,8 @@
   }
 
   & h3 {
-    font-family: map(fonts, family-serif);
+    font-family: Roboto;
+    font-weight: 800;
     color: #dcdcdc;
   }
 }

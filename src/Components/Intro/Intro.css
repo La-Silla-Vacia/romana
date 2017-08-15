@@ -59,7 +59,7 @@
   margin: 0 auto;
   left: 0;
   right: 0;
-  font-family: map(fonts, family-serif);
+  font-family: 'Lato', Helvetica;
   height: 13em;
   z-index: 3;
 
@@ -73,26 +73,30 @@
   }
 
   @media only screen and (min-height: 700px) {
-    margin-top: 10vh;
+    margin-top: 5vh;
   }
 }
 
 .first,
 .second {
-  font-weight: bold;
+  font-weight: 800;
   display: block;
-  font-size: 4em;
+  font-size: 5.7em;
   position: absolute;
 }
 
 .first {
-  font-size: 1.88em;
-  top: 0;
-  left: 2.14em;
+  font-size: 2em;
+  top: 0.3;
+  left: 2.65em;
 }
 
 .second {
-  top: 0.13em;
+  top: 0.15em;
+
+  @media screen and (max-width: 560px) {
+    top: .3em;
+  }
 }
 
 .text {
@@ -102,13 +106,15 @@
   max-width: 74em;
   margin: 0 auto;
   width: 90%;
-  text-align: right;
   & p {
-    font-size: 1.2em;
-    font-weight: 300;
-    max-width: 40em;
-    float: right;
+    font-family: Roboto;
+    font-size: 1em;
+    line-height: 1.3em;
+    font-weight: 200;
+    max-width: 50em;
+    text-align: center;
     clear: fix;
+    margin: 0 auto;
   }
 }
 
@@ -120,16 +126,18 @@
 .meta {
   clear: fix;
   display: block;
-  font-family: map(fonts, family-serif);
+  font-family: "Roboto Condensed";
   padding-bottom: 2em;
+  text-align: center;
+  margin-top: 2em;
 }
 
 .date {
-  font-weight: 400;
+  font-weight: 200;
 }
 
 .author {
   display: block;
   font-size: 1.5em;
-  font-weight: bold;
+  font-weight: 800;
 }
