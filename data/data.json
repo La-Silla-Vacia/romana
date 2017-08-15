@@ -8,8 +8,8 @@
       "introText": "intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead intro lead",
       "date": "Agosto 21, 2017",
       "author": "Laura Ardila",
-      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/intro.mp4",
-      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/marquetalia.jpg"
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/intro.mp",
+      "videoStill": "https://c1.staticflickr.com/5/4424/36544708066_b626201dfe_b.jpg"
     },
     {
       "type": "text",
@@ -17,8 +17,8 @@
     },
     {
       "type": "video",
-      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/1.mp4",
-      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/1.jpg",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/1.mp",
+      "videoStill": "https://c1.staticflickr.com/5/4378/36194785610_578378bc01_b.jpg",
       "title": "Needs a title",
       "content": "pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto"
     },
@@ -28,8 +28,8 @@
     },
     {
       "type": "video",
-      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/2.mp4",
-      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/2.jpg",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/2.mp",
+      "videoStill": "https://c1.staticflickr.com/5/4346/36194642790_cd82898e34_b.jpg",
       "title": "Needs a title",
       "content": "pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto"
     },
@@ -39,8 +39,8 @@
     },
     {
       "type": "video",
-      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/3.mp4",
-      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/3.jpg",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/3.mp",
+      "videoStill": "https://c1.staticflickr.com/5/4365/36422824672_35b05abf9e_b.jpg",
       "title": "Needs a title",
       "content": "pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto"
     },
@@ -49,9 +49,9 @@
       "content": "### Intertítulo here\n \nTexto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n \nTexto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n \nTexto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n \nTexto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n \nTexto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n \nTexto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto Texto texto texto texto texto texto texto texto texto texto texto texto texto texto"
     },
     {
-      "type": "videosdf",
-      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/4.mp4",
-      "videoStill": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/images/4.jpg",
+      "type": "video",
+      "videoLink": "http://archivo.lasillavacia.com/archivos/historias/cronicatransmedia/videos/4.mp",
+      "videoStill": "https://c1.staticflickr.com/5/4393/36453526641_2f8849c948_b.jpg",
       "title": "Needs a title",
       "content": "pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto pie de foto"
     },
