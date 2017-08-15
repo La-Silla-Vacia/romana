@@ -7,7 +7,7 @@ import Base from './src/base';
 require("./src/base.css"); // this goes outside the callback since otherwise the interactive sometimes fires before the CSS is fully loaded
 require("./src/global.css");
 
-lsv("Cronica-gallo", function (interactive) {
+lsv("cronica_transmedia", function (interactive) {
   "use strict";
 
   if (!interactive) {
