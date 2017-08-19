@@ -81,13 +81,12 @@
 .second {
   font-weight: 800;
   display: block;
-  font-size: 5.7em;
+  font-size: 5em;
   position: absolute;
 }
 
 .first {
-  font-size: 2em;
-  top: 0.3;
+  font-size: 1.8em;
   left: 1.65em;
 }
 
@@ -127,7 +126,7 @@
   clear: fix;
   display: block;
   font-family: "Roboto Condensed";
-  padding-bottom: 4em;
+  padding-bottom: 3.5em;
   text-align: center;
   margin-top: 2em;
 }
