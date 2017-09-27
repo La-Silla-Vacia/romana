@@ -81,13 +81,13 @@
 .second {
   font-weight: 800;
   display: block;
-  font-size: 5em;
+  font-size: 6em;
   position: absolute;
 }
 
 .first {
-  font-size: 1.8em;
-  left: 1.65em;
+  font-size: 1.5em;
+  left: 2.8em;
 }
 
 .second {
